@@ -15,7 +15,7 @@ footer {
 nav {
   background-color: forestgreen;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 section {
   background-color: lightgreen;
@@ -44,3 +44,4 @@ table {
 main {
   display: flex;
 }
+
